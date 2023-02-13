@@ -15,7 +15,7 @@ function App() {
           ? "Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy"
           : ""}
       </p>
-      <button id="click" onClick={handleOnClick}></button>
+      <button id="click" onClick={handleOnClick}>Click Me</button>
     </div>
   );
 }
